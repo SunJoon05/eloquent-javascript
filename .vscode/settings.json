@@ -1,0 +1,6 @@
+{
+    // ...otras configuraciones...
+    "github.copilot.enable": {
+        "*": false
+    }
+}
