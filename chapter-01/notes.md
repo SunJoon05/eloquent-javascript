@@ -43,7 +43,7 @@ Piensa en un numero binario como una fila de interruptores
 | 0        | 1             | 1   |
 
 Cada posicion tiene un valor fijo que representa una potencia.
-Ahora solo necesitas encender los los interruptores(bits) que suemen el numero que quieres nosotros queremos el numero trece encendemos los interruptores (8, 4, 1) la suma total es 13
+Ahora solo necesitas encender los los interruptores(bits) que suemen el numero que quieres nosotros queremos el numero trece, encendemos los interruptores (8, 4, 1)
 
 ---
 
