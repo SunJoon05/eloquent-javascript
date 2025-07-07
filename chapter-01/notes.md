@@ -14,7 +14,7 @@ Un **bit** es la unidad más pequeña de información en informática, y puede t
 - `1`
 
 Estos valores componen el **sistema binario**.
-Al **agrupar varios bits**, podemos representar información más compleja como números, letras, imágenes o sonidos.
+Al **agrupar varios bits**, podemos representar información más compleja como números, letras, imágenes o sonidos. todo lo que existe dentro de la computadora es informacion codificada como bits.
 
 ### 📌 Conceptos claves del texto
 
@@ -24,7 +24,26 @@ Al **agrupar varios bits**, podemos representar información más compleja como 
 - Un número decimal como `13` se puede representar en binario como `00001101`.
 - El sistema **binario usa potencias de 2**, al igual que el **decimal usa potencias de 10**.
 
-### 💡 Ejemplo práctico
+### 🧩 Representar un Numero en Binario
+
+Piensa en un numero binario como una fila de interruptores
+
+- apagado (0)
+- encendido (1)
+
+| Posición | Potencia (2ⁿ) | Bit |
+| -------- | ------------- | --- |
+| 7        | 128           | 0   |
+| 6        | 64            | 0   |
+| 5        | 32            | 0   |
+| 4        | 16            | 0   |
+| 3        | 8             | 1   |
+| 2        | 4             | 1   |
+| 1        | 2             | 0   |
+| 0        | 1             | 1   |
+
+Cada posicion tiene un valor fijo que representa una potencia.
+Ahora solo necesitas encender los los interruptores(bits) que suemen el numero que quieres nosotros queremos el numero trece encendemos los interruptores (8, 4, 1) la suma total es 13
 
 ---
 
